@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="routerlib/app" />
+      <module fileurl="file://$PROJECT_DIR$/modulea/modulea.iml" filepath="$PROJECT_DIR$/modulea/modulea.iml" group="routerlib/modulea" />
       <module fileurl="file://$PROJECT_DIR$/routerlib.iml" filepath="$PROJECT_DIR$/routerlib.iml" group="routerlib" />
     </modules>
   </component>

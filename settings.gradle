@@ -1,2 +1,3 @@
 rootProject.name='routerlib'
 include ':app'
+include ':modulea'

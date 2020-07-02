@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sankuai.waimai.router:router:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/router-1.2.0.aar/bb78732f97e966819a92c1282f25ff21/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/router-1.2.0.aar/bb78732f97e966819a92c1282f25ff21/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sankuai.waimai.router/router/1.2.0/d54da22b1ccb2353001348f59b418468dca64139/router-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
